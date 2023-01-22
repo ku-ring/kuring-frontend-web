@@ -1,18 +1,8 @@
-# create-svelte
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e522ba8-97fb-4ccc-b774-f5d58b6a3e32/deploy-status)](https://app.netlify.com/sites/ku-ring/deploys)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+# kuring-website
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+www.ku-ring.com
 
 ## Developing
 
