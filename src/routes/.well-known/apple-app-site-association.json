@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "1609873520.com.kuring.service"],
+             "components": [
+               {
+                  "/": "/share/*",
+                  "comment": "Matches any URL with a path that starts with /share/."
+               }
+             ]
+           }
+       ]
+   }
+}
