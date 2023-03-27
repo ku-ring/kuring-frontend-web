@@ -1,9 +1,5 @@
-<script>
-    import item from './apple-app-site-association.json';
-</script>
-
 <div>This is an admin page</div>
-{item}
+
 <slot />
 
 <h1>쿠링 앱이 설치 되어있지 않습니다</h1>
