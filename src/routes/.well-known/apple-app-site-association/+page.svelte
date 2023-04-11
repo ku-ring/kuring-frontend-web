@@ -1,8 +1,8 @@
-<div>This is an admin page</div>
+<script>
+  export let data;
+</script>
 
-<slot />
-
-<h1>쿠링 앱이 설치 되어있지 않습니다</h1>
+<h1>{JSON.stringify(data)}</h1>
 
 <meta name="apple-itunes-app" content="app-id=myAppStoreID, app-argument=myURL">
 
